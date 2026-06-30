@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-HYDROGEN_BONDING",
+  "name": "HYDROGEN BONDING — BARE PHYSICS · HYD",
+  "universe": "SCIENTIFIC",
+  "moniker": "⟦HYDROGEN BONDING — BARE PHYSICS · HYD:hydrogen-bonding:642527⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "6425278da68d5b6a032ea0033006b9ce25b10e3cf6887c8f42b81250e2d5450f",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
